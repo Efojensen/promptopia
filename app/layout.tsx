@@ -7,8 +7,7 @@ export const metadata = {
   description: 'Discover and share AI prompts'
 }
 
-const RootLayout = ({ children }: Readonly<{ children: React.ReactNode;
-}>) => {
+const RootLayout = ({ children }: Readonly<{ children: React.ReactNode }>) => {
   return (
     <html lang="en">
       <body>
